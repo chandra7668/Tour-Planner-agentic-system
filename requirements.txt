@@ -1,0 +1,7 @@
+langchain
+langgraph
+python-dotenv
+requests
+pydantic
+ipython
+langchain-google-genai
